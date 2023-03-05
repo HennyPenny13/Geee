@@ -22,7 +22,6 @@
 
 .col-17 {width: 91.66%;}
 .col-19 {width: 91.66%;}
-.col-20 {width: 91.66%;}
 .col-26 {width: 91.66%;}
 .col-28 {width: 91.66%;}
 .algoritmer {width: 91.66%;}
@@ -200,13 +199,6 @@
   margin: 5% 0% 5% 0%;
   text-align: center;
   grid-column: 5/5;
-}
-.col-20 {
-  background-color: rgb(209, 227, 218);
-  margin: 0px 0px 3px 0px;
-  text-align: center;
-  grid-column: 3/5;
-  padding: 6px;
 }
 .col-21 {
   text-align: center;
@@ -554,9 +546,6 @@ textarea {
     }
 
     /*hjem*/
-    .col-20 {
-      display: none;
-    }
     .col-21 {
       font-size: 25px;
       padding: 130px;
